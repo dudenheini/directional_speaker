@@ -1,6 +1,7 @@
 # Active Components
 (17) TCT-16T 40Khz Ultrasonic Transducers TCT40-16T //Get it cheap on Ali Express
 (1) STM32F103C8T6 //The "Bluepill" is also fine
+(1) ST-Link V2 //Its the easiest way to get the code into your STM32 
 (1) LM358 (DIP-8) 
 (1) TC4427A
 (1) PJ-307 Line-in Audio Jack

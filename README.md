@@ -8,3 +8,7 @@ This repository contains:
 4. A Parts List
 
 Related Video https://youtu.be/9hD5FPVSsV0
+
+## Planned
+1. Reworking the Circuit Diagramm to a more readble form
+2. Uploading a better Image of the Circuit itself
